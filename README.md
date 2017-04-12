@@ -12,4 +12,4 @@ var generate = function() {
 ```
 ### **Code & Share**
 
-### [Author](https://twitter.com/Shubhangi13)**
+### [Author](https://twitter.com/Shubhangi13)
